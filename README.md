@@ -38,4 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
 </div>
 
+<img src="https://raw.githubusercontent.com/eupeutro/eupeutro/output/snake.svg" alt="Snake animation" />
+
+###
 ###
